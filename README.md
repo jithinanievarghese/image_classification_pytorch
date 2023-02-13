@@ -11,5 +11,5 @@ Model architecture used is convolutional neural networks (CNNs)
 
 # Usage
 
-1. `python3 train.py`
-2. Install Requirements pip3 install -r requirements.txt
+1. Install Requirements `pip3 install -r requirements.txt`
+2. `python3 train.py`
