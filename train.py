@@ -63,7 +63,7 @@ def run():
     )
     logger.info(f'Total no of epochs for training = {config.EPOCHS}')
     best_accuracy = 0
-    early_stopper = EarlyStopper(patience=7, min_delta=0.003)
+    early_stopper = EarlyStopper(patience=5, min_delta=0.05)
     model_history = {"training": {}, "validation": {}}
     for epoch in range(config.EPOCHS):
         # train one epoch
