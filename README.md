@@ -12,7 +12,7 @@ and make inference on notebook [inference.ipynb](https://github.com/jithinanieva
     2. https://www.kaggle.com/datasets/dqmonn/zalando-store-crawl
     3. https://www.kaggle.com/datasets/rhtsingh/130k-images-512x512-universal-image-embeddings
 - If local system dont have GPU, then we can make use of the following [Kaggle Notebook](https://www.kaggle.com/code/jithinanievarghese/image-classification-pytorch) for training
-- Detailed insights is available in [here]()
+- Detailed insights regarding the data gathering, data labeling, model perfomance are available [here](https://github.com/jithinanievarghese/product-search-relevance/tree/main)
 
 
 # Usage
